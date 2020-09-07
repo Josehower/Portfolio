@@ -1,5 +1,7 @@
 ---
-title: 'Jose Höwer'
+title: 'Jose Fernando Höwer'
+metaTitle: 'JH portfolio'
+metaDescription: 'Jose Fernando Höwer'
 ---
 
 I am Jose Höwer, i am an enthsiast web developer, that is learning how to code on the upleveled bootcamp in viena Austria I am so excited to be here and i want learn as much as i can.
